@@ -1,2 +1,2 @@
 # Permite escrever um comentario, funciona na mesma linha
-print("oi vagabunda") # Exibe algo na tela
+print("oi") # Exibe algo na tela
